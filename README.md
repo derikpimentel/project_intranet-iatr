@@ -1,1 +1,2 @@
-# project_intranet-iatr
+# Projeto de Intranet para os Profissionais de TI da IATR
+Eu pensei nesse projeto como algo para auxiliar os profissionais de TI da empresa a se capacitarem a todo momento, mediante aos vários problemas internos pertinentes ao trabalho do dia-a-dia. Com isso, eu pensei em criar uma intranet para que todos pudessem agregar, e trocar, conhecimentos necessários. Porém essa ferramenta pode evoluír muito mais do que o planejado, e seria muito bom se essa ferramenta torna-se algo fundamental para a empresa.
